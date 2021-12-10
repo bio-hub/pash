@@ -125,8 +125,7 @@ Table 4.3: List of the 453 common ImpactVar present on sapho patient’s group n
 
 
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-VEA Group Analysis &lt;br&gt;
-- Descriptive information about exomic analysis pathway of the 12 patients with Syndromic Skin HS disorder grouped as PASH, PAPASH and SAPHO.
+VEA Group Analysis &lt;br&gt; - Descriptive information about exomic analysis pathway of the 12 patients with Syndromic Skin HS disorder grouped as PASH, PAPASH and SAPHO.
 &lt;/p&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:14px&#34;&gt;
 To access individual information of VEA, &lt;a href=&#34;../../../supplementary/vea/individual/&#34;&gt; click here &lt;/a&gt;
@@ -145,22 +144,13 @@ Figure 7: Venn diagram of common filtered (Features) Enriched Pathways per each 
 &lt;p&gt;&lt;img src=&#34;../../../img/plot7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;/div&gt;
-&lt;div id=&#34;table-10.1&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Table 10.1:&lt;/h4&gt;
-&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
-Table 10.1: List of 10 common Enriched Pathways in INTERSECT Group
-&lt;/p&gt;
-&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:600px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5b1d732d92bb.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;hr /&gt;
-&lt;/div&gt;
 &lt;div id=&#34;table-10.2&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Table 10.2:&lt;/h4&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
 Table 10.2: List of 14 common Enriched Pathways in PAPASH Group
 &lt;/p&gt;
-&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:700px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5b1d289df79d.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:730px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5eb77a8dcc8f.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;hr /&gt;
 &lt;/div&gt;
 &lt;div id=&#34;table-10.3&#34; class=&#34;section level4&#34;&gt;
@@ -168,8 +158,8 @@ Table 10.2: List of 14 common Enriched Pathways in PAPASH Group
 &lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
 Table 10.3: List of 24 common Enriched Pathways in PASH Group
 &lt;/p&gt;
-&lt;div id=&#34;htmlwidget-3&#34; style=&#34;width:100%;height:700px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5b1d5965668e.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:930px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5eb77f7ecfb1.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;hr /&gt;
 &lt;/div&gt;
 &lt;div id=&#34;table-10.4&#34; class=&#34;section level4&#34;&gt;
@@ -177,83 +167,8 @@ Table 10.3: List of 24 common Enriched Pathways in PASH Group
 &lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
 Table 10.4: List of 11 common Enriched Pathways in SAPHO Group
 &lt;/p&gt;
-&lt;div id=&#34;htmlwidget-4&#34; style=&#34;width:100%;height:700px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-4&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5b1d48280331.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;hr /&gt;
-&lt;/div&gt;
-&lt;div id=&#34;gene-expresion-data-base-pathway-analysis.&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Gene Expresion Data Base Pathway Analysis.&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div id=&#34;table-11.1&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Table 11.1&lt;/h4&gt;
-&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
-Table 11.1. Skin gene expression of common Enriched Pathways in INTERSECT Group
-&lt;/p&gt;
-&lt;div id=&#34;htmlwidget-5&#34; style=&#34;width:100%;height:550px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-5&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5b1d42d7dfa6.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;hr /&gt;
-&lt;/div&gt;
-&lt;div id=&#34;table-11.2&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Table 11.2&lt;/h4&gt;
-&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
-Table 11.2. Skin gene expression of common Enriched Pathways in PAPASH Group
-&lt;/p&gt;
-&lt;div id=&#34;htmlwidget-6&#34; style=&#34;width:100%;height:550px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-6&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5b1d337402ec.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;hr /&gt;
-&lt;/div&gt;
-&lt;div id=&#34;table-11.3&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Table 11.3&lt;/h4&gt;
-&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
-Table 11.3. Skin gene expression of common Enriched Pathways in PASH Group
-&lt;/p&gt;
-&lt;div id=&#34;htmlwidget-7&#34; style=&#34;width:100%;height:550px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-7&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5b1d70ecd62f.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;hr /&gt;
-&lt;/div&gt;
-&lt;div id=&#34;table-11.4&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Table 11.4&lt;/h4&gt;
-&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
-Table 11.4. Skin gene expression of common Enriched Pathways in SAPHO Group
-&lt;/p&gt;
-&lt;div id=&#34;htmlwidget-8&#34; style=&#34;width:100%;height:550px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-8&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5b1d1a0e2fb.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;hr /&gt;
-&lt;/div&gt;
-&lt;div id=&#34;table-12.1&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Table 12.1&lt;/h4&gt;
-&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
-Table 12.1. Lesional vs Perilesional DEGs of HS studies INTERSECT Group
-&lt;/p&gt;
-&lt;div id=&#34;htmlwidget-9&#34; style=&#34;width:100%;height:300px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-9&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5b1d69eb6265.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;hr /&gt;
-&lt;/div&gt;
-&lt;div id=&#34;table-12.2&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Table 12.2&lt;/h4&gt;
-&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
-Table 12.2. Lesional vs Perilesional DEGs of HS studies PAPASH Group
-&lt;/p&gt;
-&lt;div id=&#34;htmlwidget-10&#34; style=&#34;width:100%;height:300px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-10&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5b1d293f35b0.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;hr /&gt;
-&lt;/div&gt;
-&lt;div id=&#34;table-12.3&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Table 12.3&lt;/h4&gt;
-&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
-Table 12.3. Lesional vs Perilesional DEGs of HS studies PASH Group
-&lt;/p&gt;
-&lt;div id=&#34;htmlwidget-11&#34; style=&#34;width:100%;height:300px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-11&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5b1dd385a12.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;hr /&gt;
-&lt;/div&gt;
-&lt;div id=&#34;table-12.4&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Table 12.4&lt;/h4&gt;
-&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
-Table 12.4. Lesional vs Perilesional DEGs of HS studies SAPHO Group
-&lt;/p&gt;
-&lt;div id=&#34;htmlwidget-12&#34; style=&#34;width:100%;height:300px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-12&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5b1d233e0a81.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;div id=&#34;htmlwidget-3&#34; style=&#34;width:100%;height:770px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_5eb72adc50.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;hr /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
