@@ -1,16 +1,813 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overall Description | Original Article</title>
+    <title>Original Article</title>
     <link>/pash/data/data1/</link>
       <atom:link href="/pash/data/data1/index.xml" rel="self" type="application/rss+xml" />
-    <description>Overall Description</description>
+    <description>Original Article</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/pash/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
-      <title>Overall Description</title>
+      <title>Original Article</title>
       <link>/pash/data/data1/</link>
     </image>
+    
+    <item>
+      <title>Overall Description</title>
+      <link>/pash/data/data1/overall/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/pash/data/data1/overall/</guid>
+      <description>
+&lt;link href=&#34;/pash/pash/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pash/pash/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pash/pash/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/pash/pash/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pash/pash/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pash/pash/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pash/pash/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pash/pash/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/pash/pash/rmarkdown-libs/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pash/pash/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/pash/pash/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pash/pash/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pash/pash/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pash/pash/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+Article Data information: &lt;br&gt; - Descriptive information about exomic analysis of the 12 patients with Syndromic Skin HS disorder: PASH, PAPASH and PASH/SAPHO.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;table-s1&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S1:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S1: Distribution of variants from Exome of 12 Syndromic Patients.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+group
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+All
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ExonVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+FuncVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ImpactVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Rare
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PAPASH
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+108273
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32524
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+388
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4057
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3519
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM15
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PAPASH
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+135741
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34769
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+406
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4013
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4497
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM16
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PASH
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+138262
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34926
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+387
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4054
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4629
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SAPHO
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+125739
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33749
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+375
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3931
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5402
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PASH
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+93227
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30981
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+386
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3971
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2782
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SAPHO
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+126755
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32760
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+383
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3893
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4537
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SAPHO
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+136537
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34530
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+378
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4103
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4936
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PASH
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+134019
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34394
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+382
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4155
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4621
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PAPASH
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+131857
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34661
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+390
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4068
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4714
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PASH
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+98429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31540
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+388
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3982
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3156
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PASH
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+94473
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+341
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3947
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2901
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PASH
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+99191
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31294
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+342
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3817
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2786
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:12px&#34;&gt;
+FunctVar: Functional variant; &lt;br&gt; ImpactVar: Variants with a prediction impact higher than 1 or CADD &amp;gt;=15.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s2&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S2&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S2: Distribution of variants from Exome of PASH, PAPASH and PASH/SAPHO groups of patients.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+All
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ExonVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+FuncVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ImpactVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Rare
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+papash
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+131857
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34661.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+390
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4057.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4497.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+pash
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+98810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31430.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+384
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3976.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3028.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+sapho
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+126755
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33749.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+378
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3931.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4936.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;figure-s1&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S1&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S1: Distribution of variant location from Exome Report in 12 Syndromic patients.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:400px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;visdat&#34;:{&#34;2f47d125268&#34;:[&#34;function () &#34;,&#34;plotlyVisDat&#34;]},&#34;cur_data&#34;:&#34;2f47d125268&#34;,&#34;attrs&#34;:{&#34;2f47d125268&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;},&#34;2f47d125268.1&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic.splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f47d125268.2&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f47d125268.3&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic.splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f47d125268.4&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f47d125268.5&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f47d125268.6&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR3&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f47d125268.7&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f47d125268.8&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5.UTR3&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true}},&#34;layout&#34;:{&#34;margin&#34;:{&#34;b&#34;:40,&#34;l&#34;:60,&#34;t&#34;:25,&#34;r&#34;:10},&#34;barmode&#34;:&#34;stack&#34;,&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;showticklabels&#34;:false,&#34;type&#34;:&#34;category&#34;,&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;    1&#34;,&#34;    2&#34;,&#34;    3&#34;,&#34;    4&#34;,&#34;    6&#34;,&#34;    7&#34;,&#34;    9&#34;,&#34;   10&#34;,&#34;   11&#34;,&#34;   12&#34;,&#34;   13&#34;,&#34;   14&#34;,&#34;   15&#34;,&#34;   16&#34;,&#34;   17&#34;,&#34;   18&#34;,&#34;   19&#34;,&#34;   20&#34;,&#34;   21&#34;,&#34;   23&#34;,&#34;   24&#34;,&#34;   26&#34;,&#34;   27&#34;,&#34;   29&#34;,&#34;   32&#34;,&#34;   70&#34;,&#34;   71&#34;,&#34;   75&#34;,&#34;   76&#34;,&#34;   77&#34;,&#34;   82&#34;,&#34;   89&#34;,&#34;   93&#34;,&#34;   94&#34;,&#34;   95&#34;,&#34;   96&#34;,&#34; 1946&#34;,&#34; 2051&#34;,&#34; 2106&#34;,&#34; 2145&#34;,&#34; 2225&#34;,&#34; 2269&#34;,&#34; 2310&#34;,&#34; 2372&#34;,&#34; 2463&#34;,&#34; 2516&#34;,&#34; 2527&#34;,&#34; 2567&#34;,&#34; 2651&#34;,&#34; 2710&#34;,&#34; 2832&#34;,&#34; 2842&#34;,&#34; 2879&#34;,&#34; 3046&#34;,&#34; 3086&#34;,&#34; 3170&#34;,&#34; 3223&#34;,&#34; 3224&#34;,&#34; 3295&#34;,&#34; 3342&#34;,&#34; 3361&#34;,&#34; 3399&#34;,&#34; 3413&#34;,&#34; 3423&#34;,&#34; 3659&#34;,&#34; 4273&#34;,&#34; 4293&#34;,&#34; 4558&#34;,&#34; 4616&#34;,&#34; 4619&#34;,&#34; 4685&#34;,&#34; 4775&#34;,&#34;22913&#34;,&#34;23002&#34;,&#34;23160&#34;,&#34;23161&#34;,&#34;23415&#34;,&#34;23668&#34;,&#34;23698&#34;,&#34;23746&#34;,&#34;23972&#34;,&#34;24024&#34;,&#34;24053&#34;,&#34;24119&#34;]},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;patientID&#34;,&#34;type&#34;:&#34;category&#34;,&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;HSM1&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM2&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;]},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM1&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM2&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM3&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM4&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM5&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM15&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM16&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM17&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM22&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM23&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM24&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM25&#34;}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;showlegend&#34;:true},&#34;source&#34;:&#34;A&#34;,&#34;config&#34;:{&#34;showSendToCloud&#34;:false},&#34;data&#34;:[{&#34;x&#34;:[&#34;23668&#34;,&#34;23160&#34;,&#34;23161&#34;,&#34;23415&#34;,&#34;23002&#34;,&#34;24024&#34;,&#34;24119&#34;,&#34;23698&#34;,&#34;22913&#34;,&#34;24053&#34;,&#34;23746&#34;,&#34;23972&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;   27&#34;,&#34;   23&#34;,&#34;   23&#34;,&#34;   24&#34;,&#34;   21&#34;,&#34;   24&#34;,&#34;   24&#34;,&#34;   26&#34;,&#34;   27&#34;,&#34;   27&#34;,&#34;   29&#34;,&#34;   32&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic.splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34; 2832&#34;,&#34; 2710&#34;,&#34; 2879&#34;,&#34; 2651&#34;,&#34; 2842&#34;,&#34; 3413&#34;,&#34; 3361&#34;,&#34; 3295&#34;,&#34; 3170&#34;,&#34; 3399&#34;,&#34; 3423&#34;,&#34; 3342&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;    4&#34;,&#34;    4&#34;,&#34;    2&#34;,&#34;    1&#34;,&#34;    1&#34;,&#34;    1&#34;,&#34;    4&#34;,&#34;    2&#34;,&#34;    4&#34;,&#34;    3&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic.splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;   13&#34;,&#34;   14&#34;,&#34;   19&#34;,&#34;   14&#34;,&#34;   14&#34;,&#34;   18&#34;,&#34;   16&#34;,&#34;   15&#34;,&#34;   17&#34;,&#34;   19&#34;,&#34;   20&#34;,&#34;   23&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;   89&#34;,&#34;   71&#34;,&#34;   77&#34;,&#34;   70&#34;,&#34;   76&#34;,&#34;   75&#34;,&#34;   95&#34;,&#34;   96&#34;,&#34;   75&#34;,&#34;   94&#34;,&#34;   82&#34;,&#34;   93&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34; 3659&#34;,&#34; 3046&#34;,&#34; 3224&#34;,&#34; 3086&#34;,&#34; 3223&#34;,&#34; 4685&#34;,&#34; 4775&#34;,&#34; 4293&#34;,&#34; 4273&#34;,&#34; 4558&#34;,&#34; 4616&#34;,&#34; 4619&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR3&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34; 2225&#34;,&#34; 1946&#34;,&#34; 2145&#34;,&#34; 2051&#34;,&#34; 2106&#34;,&#34; 2516&#34;,&#34; 2527&#34;,&#34; 2310&#34;,&#34; 2269&#34;,&#34; 2372&#34;,&#34; 2463&#34;,&#34; 2567&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;    7&#34;,&#34;    7&#34;,&#34;   10&#34;,&#34;   10&#34;,&#34;    9&#34;,&#34;   13&#34;,&#34;    9&#34;,&#34;   15&#34;,&#34;   12&#34;,&#34;    6&#34;,&#34;   11&#34;,&#34;   10&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5.UTR3&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null}],&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;figure-s2&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S2&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S2: Distribution of variant location on groups PASH, PAPASH and PASH/SAPHO.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:400px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;visdat&#34;:{&#34;2f4e4eb8e1&#34;:[&#34;function () &#34;,&#34;plotlyVisDat&#34;]},&#34;cur_data&#34;:&#34;2f4e4eb8e1&#34;,&#34;attrs&#34;:{&#34;2f4e4eb8e1&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;},&#34;2f4e4eb8e1.1&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic.splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f4e4eb8e1.2&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f4e4eb8e1.3&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic.splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f4e4eb8e1.4&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f4e4eb8e1.5&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f4e4eb8e1.6&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR3&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f4e4eb8e1.7&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;2f4e4eb8e1.8&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5.UTR3&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true}},&#34;layout&#34;:{&#34;margin&#34;:{&#34;b&#34;:40,&#34;l&#34;:60,&#34;t&#34;:25,&#34;r&#34;:10},&#34;barmode&#34;:&#34;stack&#34;,&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;showticklabels&#34;:false},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;Groups&#34;,&#34;type&#34;:&#34;category&#34;,&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;]},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:20000,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;papash&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:20000,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;pash&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:20000,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;sapho&#34;}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;showlegend&#34;:true},&#34;source&#34;:&#34;A&#34;,&#34;config&#34;:{&#34;showSendToCloud&#34;:false},&#34;data&#34;:[{&#34;x&#34;:[23972,23288,23698],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[27,24,27],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic.splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[3342,2860,3295],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[3,3,2],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic.splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[18,15,17],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[89,76,94],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[4619,3224,4293],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR3&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[2516,2126,2310],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[10,10,12],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5.UTR3&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null}],&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;figure-s3&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S3&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S3: Distribution of variant function from Exome Report in 12 Syndromic patients.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-3&#34; style=&#34;width:100%;height:400px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;visdat&#34;:{&#34;1c6231735bea&#34;:[&#34;function () &#34;,&#34;plotlyVisDat&#34;]},&#34;cur_data&#34;:&#34;1c6231735bea&#34;,&#34;attrs&#34;:{&#34;1c6231735bea&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.deletion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;},&#34;1c6231735bea.1&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.insertion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c6231735bea.2&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.deletion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c6231735bea.3&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.insertion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c6231735bea.4&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonsynonymous.SNV&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c6231735bea.5&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c6231735bea.6&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;startloss&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c6231735bea.7&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stopgain&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c6231735bea.8&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;stoploss&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stoploss&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c6231735bea.9&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;synonymous.SNV&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true}},&#34;layout&#34;:{&#34;margin&#34;:{&#34;b&#34;:40,&#34;l&#34;:60,&#34;t&#34;:25,&#34;r&#34;:10},&#34;barmode&#34;:&#34;stack&#34;,&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;showticklabels&#34;:false,&#34;type&#34;:&#34;category&#34;,&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;10&#34;,&#34;100&#34;,&#34;102&#34;,&#34;103&#34;,&#34;104&#34;,&#34;105&#34;,&#34;10566&#34;,&#34;10650&#34;,&#34;10738&#34;,&#34;10761&#34;,&#34;108&#34;,&#34;10849&#34;,&#34;109&#34;,&#34;10902&#34;,&#34;10904&#34;,&#34;11011&#34;,&#34;11019&#34;,&#34;11097&#34;,&#34;11156&#34;,&#34;11168&#34;,&#34;112&#34;,&#34;11331&#34;,&#34;11366&#34;,&#34;11388&#34;,&#34;11465&#34;,&#34;11620&#34;,&#34;117&#34;,&#34;11709&#34;,&#34;11745&#34;,&#34;11790&#34;,&#34;11828&#34;,&#34;119&#34;,&#34;11927&#34;,&#34;12&#34;,&#34;120&#34;,&#34;12091&#34;,&#34;125&#34;,&#34;128&#34;,&#34;13&#34;,&#34;130&#34;,&#34;131&#34;,&#34;133&#34;,&#34;135&#34;,&#34;138&#34;,&#34;14&#34;,&#34;143&#34;,&#34;147&#34;,&#34;152&#34;,&#34;16&#34;,&#34;161&#34;,&#34;167&#34;,&#34;172&#34;,&#34;173&#34;,&#34;175&#34;,&#34;179&#34;,&#34;18&#34;,&#34;183&#34;,&#34;184&#34;,&#34;19&#34;,&#34;192&#34;,&#34;193&#34;,&#34;198&#34;,&#34;20&#34;,&#34;200&#34;,&#34;201&#34;,&#34;203&#34;,&#34;204&#34;,&#34;205&#34;,&#34;207&#34;,&#34;24&#34;,&#34;25&#34;,&#34;26&#34;,&#34;27&#34;,&#34;29&#34;,&#34;30&#34;,&#34;32&#34;,&#34;70&#34;,&#34;71&#34;,&#34;75&#34;,&#34;76&#34;,&#34;77&#34;,&#34;82&#34;,&#34;83&#34;,&#34;88&#34;,&#34;89&#34;,&#34;90&#34;,&#34;91&#34;,&#34;92&#34;,&#34;93&#34;,&#34;94&#34;,&#34;95&#34;,&#34;96&#34;,&#34;97&#34;,&#34;98&#34;]},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;patientID&#34;,&#34;type&#34;:&#34;category&#34;,&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;HSM1&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM2&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;]},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM1&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM2&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM3&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM4&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM5&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM15&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM16&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM17&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM22&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM23&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM24&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM25&#34;}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;showlegend&#34;:true},&#34;source&#34;:&#34;A&#34;,&#34;config&#34;:{&#34;showSendToCloud&#34;:false},&#34;data&#34;:[{&#34;x&#34;:[&#34;128&#34;,&#34;130&#34;,&#34;143&#34;,&#34;112&#34;,&#34;125&#34;,&#34;147&#34;,&#34;131&#34;,&#34;131&#34;,&#34;133&#34;,&#34;138&#34;,&#34;128&#34;,&#34;135&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.deletion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;92&#34;,&#34;100&#34;,&#34;88&#34;,&#34;83&#34;,&#34;91&#34;,&#34;93&#34;,&#34;92&#34;,&#34;90&#34;,&#34;98&#34;,&#34;97&#34;,&#34;102&#34;,&#34;103&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.insertion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;200&#34;,&#34;184&#34;,&#34;200&#34;,&#34;203&#34;,&#34;192&#34;,&#34;205&#34;,&#34;198&#34;,&#34;183&#34;,&#34;193&#34;,&#34;207&#34;,&#34;201&#34;,&#34;204&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.deletion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;175&#34;,&#34;152&#34;,&#34;167&#34;,&#34;161&#34;,&#34;161&#34;,&#34;175&#34;,&#34;179&#34;,&#34;172&#34;,&#34;161&#34;,&#34;173&#34;,&#34;175&#34;,&#34;175&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.insertion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;10904&#34;,&#34;10738&#34;,&#34;10761&#34;,&#34;10849&#34;,&#34;10650&#34;,&#34;11156&#34;,&#34;11011&#34;,&#34;10902&#34;,&#34;10566&#34;,&#34;11097&#34;,&#34;11019&#34;,&#34;11168&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonsynonymous.SNV&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;89&#34;,&#34;71&#34;,&#34;77&#34;,&#34;70&#34;,&#34;76&#34;,&#34;75&#34;,&#34;95&#34;,&#34;96&#34;,&#34;75&#34;,&#34;94&#34;,&#34;82&#34;,&#34;93&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;32&#34;,&#34;26&#34;,&#34;29&#34;,&#34;30&#34;,&#34;24&#34;,&#34;32&#34;,&#34;26&#34;,&#34;25&#34;,&#34;25&#34;,&#34;25&#34;,&#34;25&#34;,&#34;27&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;startloss&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;117&#34;,&#34;112&#34;,&#34;112&#34;,&#34;104&#34;,&#34;92&#34;,&#34;120&#34;,&#34;119&#34;,&#34;109&#34;,&#34;109&#34;,&#34;105&#34;,&#34;108&#34;,&#34;112&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stopgain&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;19&#34;,&#34;18&#34;,&#34;16&#34;,&#34;12&#34;,&#34;10&#34;,&#34;14&#34;,&#34;19&#34;,&#34;20&#34;,&#34;18&#34;,&#34;13&#34;,&#34;19&#34;,&#34;13&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;stoploss&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stoploss&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;11790&#34;,&#34;11465&#34;,&#34;11388&#34;,&#34;11620&#34;,&#34;11366&#34;,&#34;11790&#34;,&#34;12091&#34;,&#34;11828&#34;,&#34;11331&#34;,&#34;11927&#34;,&#34;11709&#34;,&#34;11745&#34;],&#34;y&#34;:[&#34;HSM1&#34;,&#34;HSM2&#34;,&#34;HSM3&#34;,&#34;HSM4&#34;,&#34;HSM5&#34;,&#34;HSM15&#34;,&#34;HSM16&#34;,&#34;HSM17&#34;,&#34;HSM22&#34;,&#34;HSM23&#34;,&#34;HSM24&#34;,&#34;HSM25&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;synonymous.SNV&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(23,190,207,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(23,190,207,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null}],&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;figure-s4&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S4&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S4: Distribution of variant function on groups PASH, PAPASH and PASH/SAPHO.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-4&#34; style=&#34;width:100%;height:400px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-4&#34;&gt;{&#34;x&#34;:{&#34;visdat&#34;:{&#34;1c62c977903&#34;:[&#34;function () &#34;,&#34;plotlyVisDat&#34;]},&#34;cur_data&#34;:&#34;1c62c977903&#34;,&#34;attrs&#34;:{&#34;1c62c977903&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.deletion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;},&#34;1c62c977903.1&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.insertion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c62c977903.2&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.deletion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c62c977903.3&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.insertion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c62c977903.4&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonsynonymous.SNV&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c62c977903.5&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c62c977903.6&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;startloss&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c62c977903.7&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stopgain&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c62c977903.8&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;stoploss&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stoploss&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;1c62c977903.9&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;synonymous.SNV&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true}},&#34;layout&#34;:{&#34;margin&#34;:{&#34;b&#34;:40,&#34;l&#34;:60,&#34;t&#34;:25,&#34;r&#34;:10},&#34;barmode&#34;:&#34;stack&#34;,&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;showticklabels&#34;:false},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;Group&#34;,&#34;type&#34;:&#34;category&#34;,&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;]},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:20000,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;papash&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:20000,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;pash&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:20000,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;sapho&#34;}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;showlegend&#34;:true},&#34;source&#34;:&#34;A&#34;,&#34;config&#34;:{&#34;showSendToCloud&#34;:false},&#34;data&#34;:[{&#34;x&#34;:[135,129,133],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.deletion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[93,92,97],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.insertion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[204,199,193],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.deletion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[175,164,172],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.insertion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[11156,10805,10902],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonsynonymous.SNV&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[89,76,94],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[32,26,25],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;startloss&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[117,110,109],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stopgain&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[14,17,18],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;stoploss&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stoploss&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[11790,11542,11828],&#34;y&#34;:[&#34;papash&#34;,&#34;pash&#34;,&#34;sapho&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;synonymous.SNV&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(23,190,207,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(23,190,207,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null}],&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s5&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S5:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Then, we considered the genes in which variants were present
+&lt;/p&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S5: Distribution of genes carrying variants of 12 patients with Syndromic Skin HS disorder: PASH, PAPASH and PASH/SAPHO.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Included
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Exonic
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Functional
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Impact
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+rare
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+papash
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17350
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12296
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+285
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2760
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2681
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+pash
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16222
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11690
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+269
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2704
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1870
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+sapho
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17142
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12185
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+263
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2718
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2825
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s6&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S6:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S6: Distribution of genes carrying variants of PASH, PAPASH and PASH/SAPHO groups.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+All
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ExonVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+FuncVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ImpactVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Rare
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+NA
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+NA
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+NA
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+NA
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+NA
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+NA
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+NA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+papash
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17350
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+84
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4009
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12296
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+285
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2760
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+325
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+817
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2681
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10803
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+pash
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16222
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+86
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3111
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11690
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+269
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2704
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+324
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+796
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1870
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9861
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+sapho
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17142
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+95
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3783
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12185
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+263
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2718
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+347
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+823
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2825
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+97
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10975
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s7.1&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S7.1:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S7.1: List of 40 genes carrying at least one FunctVar in papash group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-5&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-5&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/overall_files/figure-html//widgets/widget_d2578fa359b.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s7.2&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S7.2:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S7.2: List of 7 genes carrying at least one FunctVar in pash group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-6&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-6&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/overall_files/figure-html//widgets/widget_d2572471e212.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s7.3&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S7.3:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S7.3: List of 34 genes carrying at least one FunctVar in sapho group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-7&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-7&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/overall_files/figure-html//widgets/widget_d2573c452262.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s8.1&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S8.1:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S8.1: List of 40 genes carrying at least one ImpactVar in papash group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-8&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-8&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/overall_files/figure-html//widgets/widget_d2574cb915e4.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s8.2&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S8.2:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S8.2: List of 7 genes carrying at least one ImpactVar in pash group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-9&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-9&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/overall_files/figure-html//widgets/widget_d2573fe2cf25.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s8.3&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S8.3:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S8.3: List of 34 genes carrying at least one ImpactVar in sapho group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-10&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-10&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/overall_files/figure-html//widgets/widget_d2578c8aa57.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Group Comparisons</title>
@@ -43,7 +840,7 @@ Figure S5: Venn diagram of common FunctVar
 Table S3.1: List of the 54 common FunctVar present on papash patient&#39;s group not common on pash and sapho groups
 &lt;/p&gt;
 &lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/group_files/figure-html//widgets/widget_4afa356239d8.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/group_files/figure-html//widgets/widget_d247a4646cb.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:12px&#34;&gt;
 FunctVar: Functional variant; &lt;br&gt; ImpactVar: Variants with a prediction impact higher than 1 or CADD &amp;gt;=15.
 &lt;/p&gt;
@@ -55,7 +852,7 @@ FunctVar: Functional variant; &lt;br&gt; ImpactVar: Variants with a prediction i
 Table S3.2: List of the 10 common FunctVar present on pash patient&#39;s group not common on papash and sapho groups
 &lt;/p&gt;
 &lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/group_files/figure-html//widgets/widget_4afa64290460.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/group_files/figure-html//widgets/widget_d247773e9e2d.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;hr /&gt;
 &lt;/div&gt;
 &lt;div id=&#34;table-s3.3&#34; class=&#34;section level4&#34;&gt;
@@ -64,7 +861,7 @@ Table S3.2: List of the 10 common FunctVar present on pash patient&#39;s group n
 Table S3.3: List of the 47 common FunctVar present on sapho patient&#39;s group not common on papash and pash groups
 &lt;/p&gt;
 &lt;div id=&#34;htmlwidget-3&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/group_files/figure-html//widgets/widget_4afa4b07a19e.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/group_files/figure-html//widgets/widget_d247b1681bc.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;hr /&gt;
 &lt;/div&gt;
 &lt;div id=&#34;figure-s6&#34; class=&#34;section level4&#34;&gt;
@@ -81,7 +878,7 @@ Figure 6: Venn diagram of common ImpactVar
 Table S4.1: List of the 491 common ImpactVar present on papash patient&#39;s group not common on pash and sapho groups
 &lt;/p&gt;
 &lt;div id=&#34;htmlwidget-4&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-4&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/group_files/figure-html//widgets/widget_4afa60bf7940.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-4&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/group_files/figure-html//widgets/widget_d2473e3218ef.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:12px&#34;&gt;
 FunctVar: Functional variant; &lt;br&gt; ImpactVar: Variants with a prediction impact higher than 1 or CADD &amp;gt;=15.
 &lt;/p&gt;
@@ -93,7 +890,7 @@ FunctVar: Functional variant; &lt;br&gt; ImpactVar: Variants with a prediction i
 Table S4.2: List of the 108 common ImpactVar present on pash patient&#39;s group not common on papash and sapho groups
 &lt;/p&gt;
 &lt;div id=&#34;htmlwidget-5&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-5&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/group_files/figure-html//widgets/widget_4afa5df38113.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-5&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/group_files/figure-html//widgets/widget_d24736c7fa82.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;hr /&gt;
 &lt;/div&gt;
 &lt;div id=&#34;table-s4.3&#34; class=&#34;section level4&#34;&gt;
@@ -102,7 +899,7 @@ Table S4.2: List of the 108 common ImpactVar present on pash patient&#39;s group
 Table S4.3: List of the 453 common ImpactVar present on sapho patient&#39;s group not common on papash and pash groups
 &lt;/p&gt;
 &lt;div id=&#34;htmlwidget-6&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-6&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/group_files/figure-html//widgets/widget_4afa3fb87f64.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-6&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/group_files/figure-html//widgets/widget_d24770e4f742.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;hr /&gt;
 &lt;/div&gt;
 </description>
@@ -147,7 +944,7 @@ Figure S7: Venn diagram of common filtered (Features) Enriched Pathways per each
 Table S10.1: List of 15 common Enriched Pathways in PAPASH Group
 &lt;/p&gt;
 &lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:730px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_503134902d4e.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_d2722f4b1f17.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
 *these pathways could be found in the skin during skin inflammations
 &lt;/p&gt;
@@ -159,7 +956,7 @@ Table S10.1: List of 15 common Enriched Pathways in PAPASH Group
 Table S10.2: List of 25 common Enriched Pathways in PASH Group
 &lt;/p&gt;
 &lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:930px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_50316c1c5157.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_d2727e3605e8.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
 *these pathways could be found in the skin during skin inflammations
 &lt;/p&gt;
@@ -171,7 +968,7 @@ Table S10.2: List of 25 common Enriched Pathways in PASH Group
 Table S10.3: List of 12 common Enriched Pathways in PASH/SAPHO Group
 &lt;/p&gt;
 &lt;div id=&#34;htmlwidget-3&#34; style=&#34;width:100%;height:770px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_50312e08c432.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pash/data/data1/vea_files/figure-html//widgets/widget_d272ebc1c95.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
 *these pathways could be found in the skin during skin inflammations
 &lt;/p&gt;
